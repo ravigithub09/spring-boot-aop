@@ -10,9 +10,6 @@ public class SpringBootApp {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(SpringBootApp.class, args);
-//		PerformerOrcestrator po=new PerformerOrcestrator();
-//		po.startPerformance();
-		//PerformerOrcestrator.startPerformance();
 	}
 
 }
